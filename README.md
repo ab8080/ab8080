@@ -1,5 +1,5 @@
 ## Hi there! My name is Alex
-I study at MIPT and I am a QA Automation Intern at TeDo (ex. PwC)
+I study at MIPT and I am a QA Automation Engineer at TeDo (ex. PwC)
 
 ---
 
