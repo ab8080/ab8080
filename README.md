@@ -22,4 +22,3 @@ I study at MIPT and I am a QA Automation Intern at TeDo (ex. PwC)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha-nagibator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
