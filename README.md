@@ -1,15 +1,16 @@
 ## Hi there! My name is Alex
-I study at MIPT and I am a Java BackEnd Developer at DiceChess
+I am a graduate of MIPT and currently work as a Java Backend Developer at DiceChess
 
 ---
 
 ## Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Sql](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-14354C?style=for-the-badge&logo=Pandas&logoColor=white)
-![Sql](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-22863A?style=for-the-badge&logo=data-science&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
